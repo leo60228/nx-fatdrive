@@ -1,3 +1,5 @@
+paths = ["libnx-rs"]
+
 [build]
 target = "aarch64-none-elf"
 
